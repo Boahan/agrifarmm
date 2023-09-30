@@ -75,6 +75,13 @@ Type:	Website
 Developer:	Shaswat Gusain
 Updates:	0
 
+## Screenshots of webpage
+![Screenshot 2023-09-30 174138](https://github.com/Boahan/agrifarmm/assets/111555189/997e43bb-91f7-44ad-9572-71f0ecd6dc18)
+![Screenshot 2023-09-30 174244](https://github.com/Boahan/agrifarmm/assets/111555189/264077a9-2837-4c4d-84ba-5bf2eb4dacb4)
+![Screenshot 2023-09-30 174209](https://github.com/Boahan/agrifarmm/assets/111555189/83cb81f7-7eff-4c16-909a-464f7489ddcf)
+![Screenshot 2023-09-30 174142](https://github.com/Boahan/agrifarmm/assets/111555189/64388d16-8f6a-4a42-b0f7-e3b8851ac5a5)
+
+
 
 ## Instructions: How to Run?
 
