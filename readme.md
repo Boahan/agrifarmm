@@ -76,10 +76,13 @@ Developer:	Shaswat Gusain
 Updates:	0
 
 ## Screenshots of webpage
-![Screenshot 2023-09-30 174138](https://github.com/Boahan/agrifarmm/assets/111555189/997e43bb-91f7-44ad-9572-71f0ecd6dc18)
-![Screenshot 2023-09-30 174244](https://github.com/Boahan/agrifarmm/assets/111555189/264077a9-2837-4c4d-84ba-5bf2eb4dacb4)
-![Screenshot 2023-09-30 174209](https://github.com/Boahan/agrifarmm/assets/111555189/83cb81f7-7eff-4c16-909a-464f7489ddcf)
-![Screenshot 2023-09-30 174142](https://github.com/Boahan/agrifarmm/assets/111555189/64388d16-8f6a-4a42-b0f7-e3b8851ac5a5)
+![Screenshot 2023-09-30 174959](https://github.com/Boahan/agrifarmm/assets/111555189/ec1cfd54-e9e7-4327-ab19-7a9d5bc549a5)
+![Screenshot 2023-09-30 174944](https://github.com/Boahan/agrifarmm/assets/111555189/dff609de-96db-47c9-9c60-998bf5099721)
+![Screenshot 2023-09-30 174904](https://github.com/Boahan/agrifarmm/assets/111555189/6cb74f23-6f9c-42ad-99fe-2aba809b8685)
+![Screenshot 2023-09-30 174830](https://github.com/Boahan/agrifarmm/assets/111555189/24811db6-bbf5-4719-803b-2c00a0507f85)
+![Screenshot 2023-09-30 174823](https://github.com/Boahan/agrifarmm/assets/111555189/cb9d4e83-681c-40b4-b65b-b010bbab5e52)
+![Screenshot 2023-09-30 175007](https://github.com/Boahan/agrifarmm/assets/111555189/02c473ce-cd40-4340-83b6-a781a86f224d)
+
 
 
 
