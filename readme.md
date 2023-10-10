@@ -11,8 +11,6 @@ ADMIN PANEL 2(Ecommerce site)- username = admin,
                              password = Test@123,
                         source path to access it - http://localhost/agrifarm/shopping/admin/
                         
-
-## IMPORTANT
 This site consists of two database.
 
 1.database name = phpadminpanel
