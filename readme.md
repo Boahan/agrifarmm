@@ -73,6 +73,9 @@ Type:	Website
 Developer:	Shaswat Gusain
 Updates:	0
 
+## Google drive
+https://drive.google.com/drive/folders/1OmpJt-rNKo3M99WubPcRVZOy5gVewx_M?usp=sharing
+
 ## Screenshots of webpage
 ![Screenshot 2023-09-30 174959](https://github.com/Boahan/agrifarmm/assets/111555189/ec1cfd54-e9e7-4327-ab19-7a9d5bc549a5)
 ![Screenshot 2023-09-30 174944](https://github.com/Boahan/agrifarmm/assets/111555189/dff609de-96db-47c9-9c60-998bf5099721)
