@@ -82,9 +82,11 @@ https://drive.google.com/drive/folders/1OmpJt-rNKo3M99WubPcRVZOy5gVewx_M?usp=sha
 ![Screenshot 2023-09-30 174904](https://github.com/Boahan/agrifarmm/assets/111555189/6cb74f23-6f9c-42ad-99fe-2aba809b8685)
 ![Screenshot 2023-09-30 174830](https://github.com/Boahan/agrifarmm/assets/111555189/24811db6-bbf5-4719-803b-2c00a0507f85)
 ![Screenshot 2023-09-30 174823](https://github.com/Boahan/agrifarmm/assets/111555189/cb9d4e83-681c-40b4-b65b-b010bbab5e52)
-![Screenshot 2023-09-30 175007](https://github.com/Boahan/agrifarmm/assets/111555189/02c473ce-cd40-4340-83b6-a781a86f224d)
 
 ## Admin Panel
+
+![Screenshot 2023-09-30 175007](https://github.com/Boahan/agrifarmm/assets/111555189/02c473ce-cd40-4340-83b6-a781a86f224d)
+
 
 ![image](https://github.com/user-attachments/assets/f172ec29-937a-4ff2-9fd0-d9bb9188b492)
 
