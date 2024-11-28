@@ -93,15 +93,15 @@ Add Category
 
 ![image](https://github.com/user-attachments/assets/f172ec29-937a-4ff2-9fd0-d9bb9188b492)
 
-View
+View Category
 
 ![image](https://github.com/user-attachments/assets/c8380ee7-b980-46f3-bc1d-169ad0cf23d8)
 
-Edit
+Edit Category
 
 ![image](https://github.com/user-attachments/assets/e0778f9b-f230-4a4f-8048-af37d6f7bf10)
 
-Delete
+Delete Category
 
 ![image](https://github.com/user-attachments/assets/8cbd1676-f6b5-4640-a36d-3b455c9059f2)
 
