@@ -85,8 +85,11 @@ https://drive.google.com/drive/folders/1OmpJt-rNKo3M99WubPcRVZOy5gVewx_M?usp=sha
 
 ## Admin Panel
 
+Dashboard
+
 ![Screenshot 2023-09-30 175007](https://github.com/Boahan/agrifarmm/assets/111555189/02c473ce-cd40-4340-83b6-a781a86f224d)
 
+Add Category
 
 ![image](https://github.com/user-attachments/assets/f172ec29-937a-4ff2-9fd0-d9bb9188b492)
 
@@ -102,15 +105,15 @@ Delete
 
 ![image](https://github.com/user-attachments/assets/8cbd1676-f6b5-4640-a36d-3b455c9059f2)
 
-add post
+Add post
 
 ![image](https://github.com/user-attachments/assets/cd56c7e0-e93c-42d4-911d-841cfee0bc12)
 
-view post
+View post
 
 ![image](https://github.com/user-attachments/assets/090b52ca-2bba-4b23-8c2b-c37bcefa3f12)
 
-admin 
+Admin 
 ![image](https://github.com/user-attachments/assets/a506fef2-73fa-4024-a45e-1a3cb6335354)
 
 Add admin
