@@ -84,6 +84,49 @@ https://drive.google.com/drive/folders/1OmpJt-rNKo3M99WubPcRVZOy5gVewx_M?usp=sha
 ![Screenshot 2023-09-30 174823](https://github.com/Boahan/agrifarmm/assets/111555189/cb9d4e83-681c-40b4-b65b-b010bbab5e52)
 ![Screenshot 2023-09-30 175007](https://github.com/Boahan/agrifarmm/assets/111555189/02c473ce-cd40-4340-83b6-a781a86f224d)
 
+## Admin Panel
+
+![image](https://github.com/user-attachments/assets/f172ec29-937a-4ff2-9fd0-d9bb9188b492)
+
+View
+
+![image](https://github.com/user-attachments/assets/c8380ee7-b980-46f3-bc1d-169ad0cf23d8)
+
+Edit
+
+![image](https://github.com/user-attachments/assets/e0778f9b-f230-4a4f-8048-af37d6f7bf10)
+
+Delete
+
+![image](https://github.com/user-attachments/assets/8cbd1676-f6b5-4640-a36d-3b455c9059f2)
+
+add post
+
+![image](https://github.com/user-attachments/assets/cd56c7e0-e93c-42d4-911d-841cfee0bc12)
+
+view post
+
+![image](https://github.com/user-attachments/assets/090b52ca-2bba-4b23-8c2b-c37bcefa3f12)
+
+admin 
+![image](https://github.com/user-attachments/assets/a506fef2-73fa-4024-a45e-1a3cb6335354)
+
+Add admin
+
+![image](https://github.com/user-attachments/assets/c03d0df7-f340-425d-a5ec-73235b7d717f)
+
+Registered user
+
+![image](https://github.com/user-attachments/assets/36c5a6d2-71c1-4dbb-a29c-00f71182cfd5)
+
+Message
+
+![image](https://github.com/user-attachments/assets/68d42cd5-49d7-4f1c-a683-77aab473c12e)
+
+Delete message
+
+![image](https://github.com/user-attachments/assets/62266447-8098-49aa-948d-856f3e5bc141)
+
 
 
 
